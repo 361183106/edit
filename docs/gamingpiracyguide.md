@@ -791,7 +791,7 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
-
+* [Connections solver](https://connectionssolver.com) - The perfect assistant for solving NYT Connections puzzles. 
 ***
 
 # ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
