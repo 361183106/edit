@@ -75,9 +75,8 @@
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
 * ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
-* [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4)
-* [Legcord](https://github.com/Legcord/Legcord) - Discord Client / Lightweight / [Discord](https://discord.gg/TnhxcqynZ2)
-* [GoofCord](https://github.com/Milkshiift/GoofCord) - Privacy-Focused Legcord Fork
+* [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
+* [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
@@ -169,12 +168,13 @@
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
-* [Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) or [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) - Reddit Frontends
+* [Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) or [Photon](https://photon-reddit.com/), [RDX](https://rdx.overdevs.com/) - Reddit Frontends
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
 * [Beleave](https://beleave.virock.org/) or [SubCleaner](https://www.subcleaner.com/) - Subreddit Cleaners / Managers
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
+* [⁠SubHarbor](https://subharbor.com/) - Subreddit Backup Pages
 * [SubTransfer](https://subtransfer.ploomberapp.io/) - Export / Transfer Subreddits
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [SnooSnoop](https://snoosnoop.com/) - Reddit Account Analyzer
@@ -219,8 +219,8 @@
 
 * ⭐ **[TheGigaBrain](https://thegigabrain.com/)** - Reddit Search Engines
 * ⭐ **[Reddit Repost Sleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
-* ⭐ **[Undelete](https://undelete.pullpush.io/)** or [Reveddit](https://www.reveddit.com/) - View Deleted Reddit Posts / Comments
-* [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/) / [3](https://ihsoyct.github.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
+* [Reveddit](https://www.reveddit.com/) - View Deleted Reddit Posts / Comments
+* [New PullPush](https://ihsoyct.github.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Redditle](https://redditle.com/) - Reddit-Only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
@@ -230,7 +230,6 @@
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
 * [Wiki Downloader](https://github.com/michealespinola/reddit.wikidownloader) - Reddit Wiki Page Scraper
 * [Find on Reddit](https://chromewebstore.google.com/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of the Current URL
-* [PullPush](https://pullpush.io/) - Reddit Content API / [Discord](https://discord.com/invite/8hw88WMHFw)
 
 ***
 
@@ -267,14 +266,13 @@
 
 ## ▷ Telegram Clients
 
-* ↪️ **[Android Telegram Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_telegram_clients)**
-* ⭐ **[Telegram WebK](https://webk.telegram.org/)** / [Telegram WebA](https://weba.telegram.org/) - Web Apps
+* ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** - Desktop Client / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
 * ⭐ **[Materialgram](https://kukuruzka165.github.io/materialgram/)** - Desktop Client / Portable
 * ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
+* ⭐ **[Telegram WebK](https://webk.telegram.org/)** / [Telegram WebA](https://weba.telegram.org/) - Web Apps
 * [TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client
 * [TDesktop x64](https://github.com/TDesktop-x64/tdesktop) - Desktop Client / [Telegram](https://t.me/tg_x64)
 * [VideoGram](https://vidogram.org/) - Desktop Client
-* [AyuGram](https://docs.ayugram.one/desktop/) - Desktop Client / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
 * [Pyrogram](https://docs.pyrogram.org/) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 * [VanillaTG](https://t.me/VanillaTG) - Client Themes
@@ -376,7 +374,6 @@
 * [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
-* [Poke](https://poketube.fun/) - YouTube Frontend
 * [Piped](https://piped.video/) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/) - YouTube Frontend / Sign-Up Required / [GitHub](https://github.com/TeamPiped/Piped)
 * [Tube Cadence](https://tube.cadence.moe/) - YouTube Frontend
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
@@ -390,6 +387,7 @@
 * ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitle_tools)**
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored Video Segments / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi)** - Video Region Restriction Checker
+* [⁠YouTube No Translation](https://youtube-no-translation.vercel.app/) - Disable YouTube Auto Translations / [GitHub](https://github.com/YouG-o/YouTube_No_Translation)
 * [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Remembers Where You Left Off in Video
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate, Zoom, & Mirror Videos
@@ -420,21 +418,20 @@
 
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YouTube Downloader GUIs
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [2](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)  / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - YouTube Downloader App / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)
-* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online Downloader / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)** or [Tartube](https://tartube.sourceforge.io/) - Cross-Platform YT-DLP GUIs
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * ⭐ **[AMP4](https://amp4.cc/)** - YouTube Downloader / Online
 * [Stacher](https://stacher.io/), [oleksis youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) or [StefanLobbenmeier youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross-Platform YT-DL GUIs
-* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
+* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [⁠Social Saver](https://socialsaver.site/) / [GitHub](https://github.com/VishalKaleria/social-saver/), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
 * [EZMP3](https://ezmp3.cc/) - YouTube Downloader / Online
 * [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
-* [YTI](https://youtubethumbnailimage.com/), [YTThumbnailHD](https://ytthumbnailhd.com/), [Get Thumbs](https://boingboing.net/features/getthumbs), [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) or [thumbnail-download](https://thumbnail-download.com/) - Download Video Thumbnails
+* [YTThumbnailHD](https://ytthumbnailhd.com/), [YT-Thumbnail-Grabber](https://youtube-thumbnail-grabber.org/) or [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) - Download Video Thumbnails
 * [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
 * [YT Subtitle Downloader](https://greasyfork.org/en/scripts/520194) - Download Video Subtitles
 
@@ -442,8 +439,8 @@
 
 ## ▷ YouTube Search
 
-* 🌐 **[YouTube_Channels](https://github.com/PrejudiceNeutrino/YouTube_Channels)** - YouTube Channel Index
-* ⭐ **[Favoree](https://www.favoree.io/)** or [ChannelCrawler](https://channelcrawler.com/) - Discover YouTube Channels
+* 🌐 **[YT Channel Spreadsheet](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE/)** or **[YouTube_Channels](https://github.com/PrejudiceNeutrino/YouTube_Channels)** - YouTube Channel Index
+* ⭐ **[Favoree](https://www.favoree.io/)** or [ChannelCrawler](https://channelcrawler.com/) - Discover / Search YouTube Channels
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
 * ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [comb.io](https://comb.io/), [clip.cafe](https://clip.cafe/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Clip / Phrase Search Engines
@@ -477,6 +474,7 @@
 * ⭐ **[FrankerFacez](https://www.frankerfacez.com/)**, [BetterTTV](https://betterttv.com/) or [7TV](https://7tv.app/) - Twitch Enhancement Extensions
 * ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** or [Sub-Vod](https://www.sub-vod.fr/) - Watch Sub Only Twitch Videos
 * ⭐ **[Stream Scheme](https://www.streamscheme.com/)** - Livestreaming Guides / Resources
+* [⁠Twitch Gearbox](https://gearbox.crunchprank.net/twitch/filter.php) - Twitch Advanced Search 
 * [Gumbo](https://github.com/seldszar/gumbo) or [Twitch-Live](https://github.com/yungsamd17/Twitch-Live) - Twitch Stream Trackers
 * [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
 * [Twitch Clip Search](https://www.twitch-clip-search.com/) - Search for Clips
@@ -606,9 +604,6 @@
 
 # ► Instagram Tools
 
-* 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - Multiple Tools
-* 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
-* ↪️ **[Instagram Viewers / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_instagram_viewers_.2F_downloaders)** - View Profiles / Download Pictures
 * ⭐ **[Redirect Logins](https://greasyfork.org/en/scripts/420604)** - Redirect Instagram Login
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord / [GitHub](https://github.com/Wikidepia/InstaFix)
 * [Proxigram](https://codeberg.org/proxigram/proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
@@ -618,6 +613,16 @@
 * [Unfollow-Everyone](https://github.com/tlorien/Unfollow-Everyone-on-Instagram) - Bulk Instagram Unfollow
 * [InstagramUnfollowers](https://davidarroyo1234.github.io/InstagramUnfollowers/) - Check Who Follows Back / [GitHub](https://github.com/davidarroyo1234/InstagramUnfollowers)
 * [Instagram Experiments Guide](https://github.com/daniiii5/Public-Guide)
+
+***
+
+## ▷ Viewers / Downloaders
+
+* ⭐ **[Instaloader](https://instaloader.github.io/) / [GitHub](https://github.com/instaloader/instaloader)** - CLI Downloader
+* [FastDL](https://fastdl.app/en), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) or [SaveFromWeb](https://www.savefromweb.com/) - Online Downloaders
+* [Dumpor](https://dumpor.io/) / [2](https://greatfon.io/), [anonyig](https://anonyig.com/) or [mollygram](https://mollygram.com/) - Anonymous Story / Profile Viewers
+* [IG Helper](https://greasyfork.org/en/scripts/404535) / [GitHub](https://github.com/SN-Koarashi/ig-helper/) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
+* [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) or [Mass Downloader](https://chromewebstore.google.com/detail/jmpdoloapmhninneneekkepmkpmpkhjn) - Chrome Extensions
 
 ***
 
